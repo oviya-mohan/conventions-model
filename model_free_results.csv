@@ -1,0 +1,81 @@
+Pair,Condition,Participant,Baseline AIC,Ind RL AIC,Joint RL AIC,Best Fit
+NI_OT_xq913l4v,NI_OT,1,407.57,411.57,413.57,Baseline
+NI_OT_xq913l4v,NI_OT,2,407.57,407.31,413.57,Individual RL
+I_TO_apqr0rpe,I_TO,1,407.57,225.55,227.55,Individual RL
+I_TO_apqr0rpe,I_TO,2,407.57,227.3,229.3,Individual RL
+NI_TO_agx6z9dn,NI_TO,1,407.57,254.87,256.68,Individual RL
+NI_TO_agx6z9dn,NI_TO,2,407.57,254.15,254.61,Individual RL
+NI_TO_7wshhrbw,NI_TO,1,407.57,410.73,412.73,Baseline
+NI_TO_7wshhrbw,NI_TO,2,407.57,410.73,412.73,Baseline
+I_OT_c8j2ro94,I_OT,1,407.57,405.75,413.57,Individual RL
+I_OT_c8j2ro94,I_OT,2,407.57,361.37,397.58,Individual RL
+I_TO_4r55skxj,I_TO,1,407.57,335.01,336.97,Individual RL
+I_TO_4r55skxj,I_TO,2,407.57,322.24,324.23,Individual RL
+I_OT_h9uh3mul,I_OT,1,407.57,281.93,283.93,Individual RL
+I_OT_h9uh3mul,I_OT,2,407.57,202.24,204.24,Individual RL
+I_OT_g4xpbpj6,I_OT,1,407.57,228.67,230.67,Individual RL
+I_OT_g4xpbpj6,I_OT,2,407.57,206.42,208.42,Individual RL
+NI_OT_sh8cf924,NI_OT,1,407.57,396.36,413.57,Individual RL
+NI_OT_sh8cf924,NI_OT,2,407.57,411.57,413.57,Baseline
+NI_TO_wiml9wm0,NI_TO,1,407.57,380.96,381.95,Individual RL
+NI_TO_wiml9wm0,NI_TO,2,407.57,380.29,382.29,Individual RL
+NI_OT_ldhtljr9,NI_OT,1,407.57,411.57,413.57,Baseline
+NI_OT_ldhtljr9,NI_OT,2,407.57,290.94,413.57,Individual RL
+NI_OT_eo2uzk2s,NI_OT,1,407.57,154.17,156.17,Individual RL
+NI_OT_eo2uzk2s,NI_OT,2,407.57,142.62,144.62,Individual RL
+I_TO_h2uit3zp,I_TO,1,407.57,410.09,412.09,Baseline
+I_TO_h2uit3zp,I_TO,2,407.57,410.09,412.09,Baseline
+I_TO_kuae9j3j,I_TO,1,407.57,411.57,412.56,Baseline
+I_TO_kuae9j3j,I_TO,2,407.57,411.57,413.06,Baseline
+NI_TO_4bwl0qbj,NI_TO,1,407.57,279.49,281.49,Individual RL
+NI_TO_4bwl0qbj,NI_TO,2,407.57,279.49,281.49,Individual RL
+I_OT_3ix0zaem,I_OT,1,407.57,272.64,274.64,Individual RL
+I_OT_3ix0zaem,I_OT,2,407.57,192.34,194.34,Individual RL
+NI_OT_rrlxmpp5,NI_OT,1,407.57,411.57,413.57,Baseline
+NI_OT_rrlxmpp5,NI_OT,2,407.57,411.57,410.66,Baseline
+I_TO_t7x3vvi1,I_TO,1,407.57,409.11,411.11,Baseline
+I_TO_t7x3vvi1,I_TO,2,407.57,409.11,411.11,Baseline
+NI_TO_3ooaxiup,NI_TO,1,407.57,409.52,409.38,Baseline
+NI_TO_3ooaxiup,NI_TO,2,407.57,411.57,413.18,Baseline
+I_OT_tvge9zyu,I_OT,1,407.57,289.93,291.64,Individual RL
+I_OT_tvge9zyu,I_OT,2,407.57,359.61,361.61,Individual RL
+NI_OT_fpghgezy,NI_OT,1,407.57,371.41,412.75,Individual RL
+NI_OT_fpghgezy,NI_OT,2,407.57,401.78,403.78,Individual RL
+NI_TO_d3nyyc5v,NI_TO,1,407.57,274.57,276.27,Individual RL
+NI_TO_d3nyyc5v,NI_TO,2,407.57,275.85,277.85,Individual RL
+I_TO_bv42zb0r,I_TO,1,407.57,300.85,302.22,Individual RL
+I_TO_bv42zb0r,I_TO,2,407.57,306.99,306.58,Joint RL
+NI_OT_ut8qatoj,NI_OT,1,407.57,248.14,250.14,Individual RL
+NI_OT_ut8qatoj,NI_OT,2,407.57,123.57,125.57,Individual RL
+I_OT_aw71h5pi,I_OT,1,407.57,324.35,326.35,Individual RL
+I_OT_aw71h5pi,I_OT,2,407.57,403.3,405.3,Individual RL
+NI_TO_98fqxtm8,NI_TO,1,407.57,391.77,393.77,Individual RL
+NI_TO_98fqxtm8,NI_TO,2,407.57,391.77,393.77,Individual RL
+I_TO_ohn5xo30,I_TO,1,407.57,405.52,406.28,Individual RL
+I_TO_ohn5xo30,I_TO,2,407.57,411.57,413.57,Baseline
+I_OT_v395919d,I_OT,1,407.57,357.88,359.88,Individual RL
+I_OT_v395919d,I_OT,2,407.57,411.57,408.55,Baseline
+NI_TO_4fei2let,NI_TO,1,407.57,178.01,180.01,Individual RL
+NI_TO_4fei2let,NI_TO,2,407.57,178.01,180.01,Individual RL
+NI_OT_scc6ut4m,NI_OT,1,407.57,133.32,134.12,Individual RL
+NI_OT_scc6ut4m,NI_OT,2,407.57,135.8,137.8,Individual RL
+I_TO_w08oe7pq,I_TO,1,407.57,408.66,410.41,Baseline
+I_TO_w08oe7pq,I_TO,2,407.57,409.88,411.66,Baseline
+I_OT_fhfu2taw,I_OT,1,407.57,177.2,179.2,Individual RL
+I_OT_fhfu2taw,I_OT,2,407.57,160.07,162.07,Individual RL
+NI_TO_5393z70p,NI_TO,1,407.57,411.57,413.57,Baseline
+NI_TO_5393z70p,NI_TO,2,407.57,411.57,413.45,Baseline
+NI_OT_f46z2j09,NI_OT,1,407.57,150.11,152.11,Individual RL
+NI_OT_f46z2j09,NI_OT,2,407.57,157.05,158.88,Individual RL
+I_OT_14f0zewk,I_OT,1,407.57,235.74,236.05,Individual RL
+I_OT_14f0zewk,I_OT,2,407.57,230.67,225.82,Joint RL
+NI_OT_3zl2di7o,NI_OT,1,407.57,398.73,400.12,Individual RL
+NI_OT_3zl2di7o,NI_OT,2,407.57,407.11,409.1,Individual RL
+NI_TO_qvuayn21,NI_TO,1,407.57,371.76,373.2,Individual RL
+NI_TO_qvuayn21,NI_TO,2,407.57,367.93,369.93,Individual RL
+I_TO_29zq6soa,I_TO,1,407.57,411.44,413.57,Baseline
+I_TO_29zq6soa,I_TO,2,407.57,409.61,411.23,Baseline
+I_OT_axg2ydsa,I_OT,1,407.57,167.08,168.59,Individual RL
+I_OT_axg2ydsa,I_OT,2,407.57,159.7,158.05,Joint RL
+I_TO_lx66ptw4,I_TO,1,407.57,411.05,411.26,Baseline
+I_TO_lx66ptw4,I_TO,2,407.57,411.55,410.96,Baseline
